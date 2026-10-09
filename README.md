@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Stephen Muchemi
 
-<!--
-**stephenmuchemi091-dot/stephenmuchemi091-dot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- I'm currently learning Computer Programming at Mahannaim College.
+- I'm interested in app design and web design.
+- I'm looking to collaborate on [e.g., "beginner-friendly open source projects.
 
-Here are some ideas to get you started:
+## Skills I'm Building
+- Git and GitHub
+- Adobe Illustrator, Photoshop, Corel Draw, Figma
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Projects
+- [My first website](link) — I am transforming an initial concept into a live page.
+
+## How to Reach Me
+- Email: stephenmuchemi091@gmail.com
+- LinkedIn (https://www.linkedin.com/in/stephen-muchemi-5a878442b/?isSelfProfile=true)
+
