@@ -10,7 +10,7 @@
 - Adobe Illustrator, Photoshop, Corel Draw, Figma
 
 ## Current Projects
-- [My first website]([link](https://stephenmuchemi091-dot.github.io/)) — I am transforming an initial concept into a live page.
+- [[My first website](https://stephenmuchemi091-dot.github.io/)]([link]) — I am transforming an initial concept into a live page.
 
 ## How to Reach Me
 - Email: stephenmuchemi091@gmail.com
