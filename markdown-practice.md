@@ -45,7 +45,7 @@ My learning goals are:
 
 ```html
 <h1>Hello, am Stephen!</h1>
-<p>I am learning web development and language.</p>
+<p>I am q web developer.</p>
 ```
 
 ## Blockquote
